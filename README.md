@@ -4,7 +4,7 @@
  # tools & technology
  <ul>
   <li>jsp</li>
-  <li>servlet<li>
+  <li>servlet</li>
   <li>hibernate</li>
   <li>MySql</li>
  </ul>
